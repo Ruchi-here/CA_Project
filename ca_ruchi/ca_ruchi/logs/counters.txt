@@ -1,0 +1,2 @@
+Register Instructions: 5
+Memory Instructions: 0
