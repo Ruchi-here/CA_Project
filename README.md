@@ -9,3 +9,12 @@ Cycle accurate simulator for a 5 staged pipelined RISC-V CPU.
 5) Place your assembly language code in Input/Input.txt and its corresponding binary text file in Input/binary.txt
 6) Now to run, Open terminal in this repository directory and type command 'make' (Please note that this run approach will work only in case of linux environment)
 7) Tada!!! Results from Assembler and its Cycle accurate Simulator are ready to view
+
+Some outputs -
+
+![image](https://github.com/Ruchi-here/CA_Project/assets/122676573/6b448103-3806-4d1e-a77a-bc958be40bdb)
+
+![image](https://github.com/Ruchi-here/CA_Project/assets/122676573/98a1be3b-5b55-4cc5-bba1-135fc477f0a6)
+
+![image](https://github.com/Ruchi-here/CA_Project/assets/122676573/83ea4fa4-549b-4bca-9a04-8250bbce54e5)
+
